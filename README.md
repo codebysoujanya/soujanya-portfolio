@@ -1,34 +1,18 @@
-\# Soujanya G. — Portfolio
-
-
+Soujanya G. — Portfolio
 
 A professional personal portfolio website showcasing my \*\*projects, skills, education, experience, achievements, and developer journey\*\*.
 
-
-
-\## 👩‍💻 About
-
-
+👩‍💻 About
 
 I am a \*\*CSE (Data Science) student at New Horizon College of Engineering, Bengaluru\*\*, graduating in 2027.
 
-
-
 I am interested in \*\*Full Stack Development, Software Engineering, Data Science, and AI\*\*.
 
-
-
-\## 🚀 Featured Project
-
-
+🚀 Featured Project
 
 \*\*EduCoreAI\*\* — An AI-powered student–mentor platform designed to provide personalized academic, career, and student support.
 
-
-
-\## 🛠️ Built With
-
-
+🛠️ Built With
 
 \* React
 
@@ -40,11 +24,7 @@ I am interested in \*\*Full Stack Development, Software Engineering, Data Scienc
 
 \* Vite
 
-
-
-\## 🔗 Connect
-
-
+🔗 Connect
 
 \* \*\*GitHub:\*\* https://github.com/codebysoujanya
 
@@ -55,17 +35,9 @@ I am interested in \*\*Full Stack Development, Software Engineering, Data Scienc
 \* \*\*Email:\*\* \[gsoujanya824@gmail.com](mailto:gsoujanya824@gmail.com)
 
 
-
-\## 🌐 Portfolio
-
-
+🌐 Portfolio
 
 This repository contains the source code for my personal developer portfolio.
-
-
-
-\---
-
 
 
 \*\*© 2026 Soujanya G.\*\*
